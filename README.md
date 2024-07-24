@@ -2,6 +2,7 @@
 
 The space missions analysis project provides insights into various aspects of space exploration, including successful missions, failures, costs, and more. By visualizing the data using Power BI, users can gain valuable insights into the trends and patterns of space missions as of August 2022.
 
+![](Gobal_Space_mission_Image_.png)
 ## Data Overview
 
 The dataset includes the following fields:
